@@ -1,0 +1,4 @@
+/BACKEND/node_modules/
+/BACKEND//pgadmin/
+/BACKEND//postgres/
+/BACKEND/.env
